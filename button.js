@@ -49,11 +49,11 @@ var syncerSounds = {
 		}
 	}
 
-
+/*
 	document.getElementById( setStopButtonId ).onclick = function()
 	{
 		stopCurrentSound() ;
 		return false ;
 	}
-
+*/
 })() ;
